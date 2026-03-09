@@ -1,5 +1,5 @@
-Expense_Project Architecture
-
+## Expense_Project Architecture
+---
 CSV Files
    │
    ▼
@@ -16,3 +16,4 @@ CLI Analytics Queries
    │
    ▼
 Tabular Output / Export CSV
+---
