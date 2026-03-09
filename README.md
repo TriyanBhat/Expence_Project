@@ -81,31 +81,6 @@ expense_project
 
 ---
 
-## Running the Project
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run ingestion
-
-```bash
-python main.py ingest
-```
-
-### Run analytics
-
-```bash
-python main.py analytics
-```
-
-### Run tests
-
-```bash
-pytest
-```
 
 ---
 
@@ -116,3 +91,4 @@ pytest
 * Docker
 * Pytest
 * Pydantic
+
