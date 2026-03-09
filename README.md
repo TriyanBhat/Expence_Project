@@ -82,7 +82,6 @@ expense_project
 ---
 
 
----
 
 ## Tech Stack
 
@@ -91,4 +90,5 @@ expense_project
 * Docker
 * Pytest
 * Pydantic
+
 
