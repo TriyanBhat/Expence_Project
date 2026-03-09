@@ -1,4 +1,4 @@
-# Expense Data Pipeline Project
+# Expense Project
 
 A simple **data engineering pipeline** built using **Python, PostgreSQL, and Docker**.
 The pipeline ingests expense data from CSV files, validates it, stores it in a database, and allows querying through a CLI.
@@ -90,5 +90,6 @@ expense_project
 * Docker
 * Pytest
 * Pydantic
+
 
 
