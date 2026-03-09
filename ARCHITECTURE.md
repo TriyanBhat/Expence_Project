@@ -3,17 +3,18 @@
 CSV Files
    │
    ▼
-CSV Reader (csv_reader.py)
+CSV Reader
    │
    ▼
 Validation Layer (Pydantic)
    │
    ▼
-Database Layer (PostgreSQL)
+PostgreSQL Database
    │
    ▼
-CLI Analytics Queries
+CLI Commands
    │
    ▼
-Tabular Output / Export CSV
+Tabular Output / Export
 ---
+
